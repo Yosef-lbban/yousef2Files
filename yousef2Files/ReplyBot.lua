@@ -56,7 +56,7 @@ Dev_Ali(msg.chat_id_, msg.id_, 1, yousef2TEAM, 1, 'md')
 return false
 end
 if text == 'هلو' or text == 'هلاو' or text == 'هلا' or text == 'هلاوو' or text == 'هيلاو' or text == 'هيلاوو' or text == 'هلاا' then 
-local yousef2TEAM = {"اࠗط็لق֯ق֯ هٞللاࠗ୨و 𖠙 🤤♥️" ,"هۂَلاا نۨہٰورتت يعمۘري 𖠙 🤤♥️" } 
+local yousef2TEAM = {"اࠗط็لق֯ق֯ هٞللاࠗ୨و 𖠙 🤤♥️" ,"هلابك زود 𖠙 🤤♥️" } 
 DevAli2 = math.random(#yousef2TEAM) 
 Dev_Ali(msg.chat_id_, msg.id_, 1, yousef2TEAM[DevAli2] , 1, 'md') 
 return false
@@ -72,7 +72,7 @@ yousef2TEAM =  "مْوٌجہوٌدِ يہمْگُ يحلوُ 𖠙 😉♥️"
 Dev_Ali(msg.chat_id_, msg.id_, 1, yousef2TEAM, 1, 'md') 
 return false
 end
-if text == 'بوت عواي' or text == 'بوت زربه' or text == 'البوت عاوي' or text == 'البوت زربه' then
+if text == 'البوت' or text == 'البوت يحذف الرسايل' or text == 'البوت عاوي' or text == 'البوت زربه' then
 yousef2TEAM =  "اطردكك تجرب ؟ ، 😕🔪"
 Dev_Ali(msg.chat_id_, msg.id_, 1, yousef2TEAM, 1, 'md') 
 return false
@@ -87,7 +87,7 @@ yousef2TEAM =  "شحۡسۜيت مۘنۨہ هيجۚ ּكتبت ؟ 🌝♥️"
 Dev_Ali(msg.chat_id_, msg.id_, 1, yousef2TEAM, 1, 'md') 
 return false
 end
-if text == 'اكلك' or text == 'اكلج' or text == 'اكلكم' then 
+if text == 'اقلك' or text == 'اقول' or text == 'اقلك' then 
 yousef2TEAM =  "ڪوولُِ مآڪوولُِ لُِآحٍدِ 𖠙 😉♥️"
 Dev_Ali(msg.chat_id_, msg.id_, 1, yousef2TEAM, 1, 'md')
 return false
