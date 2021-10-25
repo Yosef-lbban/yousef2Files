@@ -51,7 +51,7 @@ Dev_Ali(msg.chat_id_, msg.id_, 1, yousef2TEAM, 1, 'md')
 return false
 end
 if text == 'باي' or text == 'بااي' or text == 'اروح' or text == 'اروح احسن' or text == 'اولي احسن' or text == 'راح اروح' or text == 'باي انام' then 
-yousef2TEAM =  "أُرٌجُعُ عٍيدِهآآ مٍوو تنِْسةه 𖠙 🤤♥️"
+yousef2TEAM =  "في حفظ الرحمن 𖠙 🤤♥️"
 Dev_Ali(msg.chat_id_, msg.id_, 1, yousef2TEAM, 1, 'md') 
 return false
 end
